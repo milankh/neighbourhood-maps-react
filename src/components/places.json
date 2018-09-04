@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Costco Wholesale",
+    "type": "Warehouse",
+    "latitude": 39.1557909,
+    "longitude": -77.2144139
+  },
+  {
+    "name": "Sam's Club",
+    "type": "Warehouse Club",
+    "latitude": 39.1514147,
+    "longitude": -77.2121447
+  },
+  {
+    "name": "Trader Joe's",
+    "type": "Grocery Store",
+    "latitude": 39.1544597,
+    "longitude": -77.1986103
+  },
+  {
+    "name": "Gaithersburg Sqaure",
+    "type": "Shopping Mall",
+    "latitude": 39.1476123,
+    "longitude": -77.2091943
+  },
+  {
+    "name": "Lakeforest Mall",
+    "type": "Shopping Mall",
+    "latitude": 39.1534905,
+    "longitude": -77.2041893
+  },
+  {
+    "name": "HMart Gaithersburg",
+    "type": "Korean Grocery Store",
+    "latitude": 39.1543433,
+    "longitude": -77.1973094
+  }
+]
